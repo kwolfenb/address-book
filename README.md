@@ -1,20 +1,12 @@
-# _Webpage Name_
+# _Address Book_
 
-#### _Single webpage for Epicodus, 10.17.2018_
+#### _Single webpage for Epicodus, 10.29.2018_
 
 #### By _**Kenny Wolfenberger**_
 
 ## Description
 
-_This webpage demonstrates the use of HTML, CSS, and JavaScript, using blah blah blah..._
-
-### Specs
-| Spec | Input | Output |
-| :-------------     | :------------- | :------------- |
-| **If word starts with a vowel, word ends with "way"** | User input: "about" | Output: "aboutway" |
-| **For words starting with one or more consonants, move all of the first consecutive consonants to the end, and add "ay". **| User Input: "pants" | Output: "antspay" |
-| **If the first consonant includes "qu", move the "u" along with the "q".**| Input: "quit" | Output: "itquay" |
-| **For words beginning with "y", treat "y" as a consonant.** | Input: "yak" | Output: "akyay" |
+_This webpage uses JavaScript objects and constructors to create and store contacts in an address book._
 
 
 ## Setup/Installation Requirements
